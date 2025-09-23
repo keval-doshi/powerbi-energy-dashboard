@@ -29,6 +29,6 @@ Optimized data integration and report generation, providing actionable insights 
 
 ---
  📌 Author
-Created by Keval Dosho  
+Created by Keval Doshi  
 📧 kevaldoshi27@gmail.com 
 🔗  https://www.linkedin.com/in/keval-doshi25/
